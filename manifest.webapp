@@ -1,0 +1,19 @@
+{
+  "name": "Teste",
+  "description": "Teste",
+  "launch_path": "/index.html",
+  "icons": {
+    "60": "/img/60.png",
+    "128": "/img/128.png",
+    "120": "/img/120.png",
+    "90": "/img/90.png",
+    "256": "/img/256.png",
+    "32": "/img/32.png"
+  },
+  "version": "1.0",
+  "developer": {
+    "name": "Romario Huebra",
+    "url": "http://facebook.com/RomarioHuebra"
+  },
+  "default_locale": "pt-br"
+}
