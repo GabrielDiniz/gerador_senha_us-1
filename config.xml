@@ -7,7 +7,7 @@
 	>
 	<!-- versionCode is optional and Android only -->
 	<name>Password Generator</name>
-	<icon src="icon.png"/>
+	<icon src="gerador.png"/>
 	<description>
 		A simple, light and beautiful application that can generate fully customizable passwords, allows you to generate passwords of up to 1000 characters.
 	</description>
