@@ -17,7 +17,6 @@
 	<author href="https://plus.google.com/u/0/+RomárioHuebra" email="romarioj2h@yahoo.com.br">
 		Romário Huebra
 	</author>
-	<feature name="http://api.phonegap.com/1.0/network"/>
 <!-- <feature name="InAppBrowser">
 <param name="android-package" value="org.apache.cordova.InAppBrowser" />
 </feature>
