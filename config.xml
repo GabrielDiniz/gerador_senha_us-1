@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <widget xmlns = "http://www.w3.org/ns/widgets"
 	xmlns:gap = "http://phonegap.com/ns/1.0"
-	id = "com.romarioj2h.passwordgenerator"
+	id = "com.romarioj2h.gerador_senha_us"
 	versionCode = "1"
 	version = "1.0.0"
 	>
@@ -13,21 +13,21 @@
 	</description>
 	<!-- <gap:platform name="ios" /> -->
 	<gap:platform name="android" />
-	<!-- <gap:platform name="winphone" /> -->
+	<gap:platform name="winphone" />
 	<author href="https://plus.google.com/u/0/+RomárioHuebra" email="romarioj2h@yahoo.com.br">
 		Romário Huebra
 	</author>
-<!-- <feature name="InAppBrowser">
-<param name="android-package" value="org.apache.cordova.InAppBrowser" />
-</feature>
-<feature name="App">
-<param name="android-package" value="org.apache.cordova.App" />
-</feature> -->
-<preference name="target-device" value="universal" />
-<!-- <preference name="stay-in-webview" value="true"/> -->
-<preference name="keepRunning" value="true" />
-<preference name="orientation" value="portrait" />
-<!-- <gap:plugin name="org.apache.cordova.device" version="0.2.8" /> -->
-<!-- <gap:plugin name="cn.push.cordova.plugin.local-notification" version="0.7.3" /> -->
-<!-- <gap:plugin name="de.appplant.cordova.plugin.background-mode" version="0.5.0" /> -->
+	<!-- <feature name="InAppBrowser">
+	<param name="android-package" value="org.apache.cordova.InAppBrowser" />
+	</feature>
+	<feature name="App">
+	<param name="android-package" value="org.apache.cordova.App" />
+	</feature> -->
+	<preference name="target-device" value="universal" />
+	<!-- <preference name="stay-in-webview" value="true"/> -->
+	<preference name="keepRunning" value="true" />
+	<preference name="orientation" value="portrait" />
+	<!-- <gap:plugin name="org.apache.cordova.device" version="0.2.8" /> -->
+	<!-- <gap:plugin name="cn.push.cordova.plugin.local-notification" version="0.7.3" /> -->
+	<!-- <gap:plugin name="de.appplant.cordova.plugin.background-mode" version="0.5.0" /> -->
 </widget>
