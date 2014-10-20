@@ -23,6 +23,7 @@
 	<feature name="App">
 	<param name="android-package" value="org.apache.cordova.App" />
 	</feature> -->
+	<preference name="permissions" value="none"/>
 	<preference name="target-device" value="universal" />
 	<!-- <preference name="stay-in-webview" value="true"/> -->
 	<preference name="keepRunning" value="true" />
